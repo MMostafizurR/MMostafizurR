@@ -25,5 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmostafizurr&show_icons=true&locale=en&layout=compact" alt="mmostafizurr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmostafizurr&show_icons=true&locale=en" alt="mmostafizurr" /></p>
-<img align="right" alt="Coding with Rounded Corners" width="495" height="195" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+<img align="right" alt="Coding with Rounded Corners" width="330" height="195" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmostafizurr&" alt="mmostafizurr" /></p>

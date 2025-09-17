@@ -26,4 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmostafizurr&show_icons=true&locale=en" alt="mmostafizurr" /></p>
 <img align="right" alt="Coding with Rounded Corners" width="330" height="195" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmostafizurr&" alt="mmostafizurr" /></p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mmostafizurr&theme=dark&border_radius=3&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=184" alt="GitHub Streak" /></a>
